@@ -1,0 +1,56 @@
+body {
+  font-size: 62.5%;
+}
+
+.header-top {
+}
+.navigation {
+  background-color: cornflowerblue;
+  margin-bottom: 50px;
+}
+
+.unlist {
+  display: flex;
+  list-style: none;
+  margin-left: 2rem;
+  padding: 1.5rem;
+}
+
+.item-list {
+  padding-right: 5rem;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 2rem;
+  text-transform: uppercase;
+  padding: 1.5rem;
+}
+
+.link:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+table {
+  margin-top: 100px;
+}
+
+thead {
+  padding: 100px;
+}
+
+table tr {
+}
+
+table th {
+  font-size: 2rem;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+table td {
+  font-size: 1rem;
+  padding: 20px;
+  border: 1px solid black;
+}
